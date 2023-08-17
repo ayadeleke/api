@@ -11,6 +11,7 @@ You should also display the data in an easy-to-use and understand format (e.g. s
 Along with this Github link to this app you make, a small demo of a 2 min video showing us how to use the app is also submitted;
 
 The rapid API used for this project is here in the [link](https://rapidapi.com/fyhao/api/currency-exchange).
+
 HOW TO USE
 1. After launching the app, users are prompted to select their desired currencies to check rates from a list in the drop-down menu and click the rate button.
 2. The button displays the current market rate of the currencies in the panel.
